@@ -1,7 +1,6 @@
 #### Highschool student from Slovakia
 
 - 👋 Hi, I’m @Noiyy
-- 👀 I’m interested in ...
 - 📚 I'm currently learning Liquid, Java & Pixel Art
 - 💍  I like Lord of the Rings *...gollum gollum*
 
