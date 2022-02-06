@@ -1,7 +1,7 @@
-#### Highschool student from Slovakia
+#### Highschool student from Slovakia, MY FIRST STORY addict ❤️
 
 - 👋 Hi, I’m @Noiyy
-- 📚 I'm currently learning Haxe, Game Dev & Pixel Art
+- 📚 I'm currently learning Haxe (& HaxeFlixel), Game Dev & Digital Art
 - 💍  I like Lord of the Rings *...gollum gollum*
 
 <!---
