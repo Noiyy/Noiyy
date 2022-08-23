@@ -1,9 +1,6 @@
 <h1 align="center">Hi! 👋 I'm Noiyy,</h1>
 <h3 align="center">first-year university student from Slovakia.</h3>
-<br>
-<p align="center">
-<img src="https://i.ibb.co/grSpKCb/banner.jpg" alt="banner" width="100%" height="60px" />
-</p>
+<img src="https://i.ibb.co/grSpKCb/banner.jpg" alt="banner" width="100%" height="40px" />
 
 - 🔭 I’m currently working on **Snowcastle Meltdown**
 
@@ -14,7 +11,6 @@
 - 💍 I like **Lord of the Rings** *...gollum gollum*
 
 - ❤️ **MY FIRST STORY** addict
-<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
